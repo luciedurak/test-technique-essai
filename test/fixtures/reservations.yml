@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2024-11-07
+  end_date: 2024-11-07
+  listing: one
+  guest: one
+  status: MyString
+
+two:
+  start_date: 2024-11-07
+  end_date: 2024-11-07
+  listing: two
+  guest: two
+  status: MyString
